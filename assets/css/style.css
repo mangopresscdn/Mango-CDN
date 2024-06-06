@@ -2188,7 +2188,7 @@ p.team-text {
 ======================================================**/
 
 .call-to-action {
-    background: url(../images/resource/call-bg.png);
+    background: url(https://html.ditsolution.net/dexon/assets/images/slider/hero-bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2306,7 +2306,7 @@ p.team-text {
 ======================================================**/
 
 .footer-section {
-    background: url(../images/resource/footer-bg.jpg);
+    background: url(https://html.ditsolution.net/dexon/assets/images/slider/hero-bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2518,7 +2518,7 @@ ul.footer-menu li a:hover {
 
 
 .breatcam-section {
-    background: url(../images/resource/inner-bg.jpg);
+    background: url(https://html.ditsolution.net/dexon/assets/images/slider/hero-bg2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2536,6 +2536,7 @@ ul.footer-menu li a:hover {
     margin-top: 80px;
 }
 .breatcam-content h1 {
+    color: #ffffff;
     font-size: 50px;
     line-height: 42px;
 }
@@ -3140,7 +3141,7 @@ span.price-mon {
 <!-- ============================================================== -->*/
 
 .contact-us {
-    background: url(../images/resource/contact-bg.jpg);
+    background: url(https://html.ditsolution.net/dexon/assets/images/slider/hero-bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
